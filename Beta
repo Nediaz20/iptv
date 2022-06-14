@@ -7,8 +7,8 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
 http://iptv.tvmalaysia.cc:80/624850/624850/7178
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/160px-TV3_%28Malaysia%29.svg.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXXIEPY6nT2eYbUhAm2xnhkZGCiuf6V23HrztbKHU_ZD0CO1sVkSpDr5tKnl3h-9mDw)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
 http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
